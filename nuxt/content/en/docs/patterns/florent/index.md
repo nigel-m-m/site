@@ -23,11 +23,11 @@ The lining can be anything, but it is usually something light and nice.
 
 ## Cutting
 
-Depending on how much fabric is available, you might want to cut two top and or side parts, hence the instructions on the pattern himself.
+Depending on how much fabric is available, you might want to cut two top and or side parts, hence the instructions on the pattern its self.
 Warning: The pattern includes the seam allowances on the top part so if you cut it on fold, don't include them!
 
 The brim bottom part is inset, while the brim top part is offset so that the seam falls "underneath the brim edge". 
-Keep that in mind when cutting the parts, and mark them accordingly, so that you don't end up with the seam on top of the brim (I don't want to force you into this design choice, I simply want to point out the difference between the parts so that you are aware of it and act accordingly)
+Keep that in mind when cutting the parts and marking them accordingly, so that you don't end up with the seam on top of the brim (I don't want to force you into this design choice, I simply want to point out the difference between the parts so that you are aware of it and act accordingly)
 
  - **Main fabric**
    - Cut **1 top** on the fold but don't include the center seam allowance, or **2 top** with the center seam allowance.
@@ -62,9 +62,9 @@ You should mark the top of the back dart on the wrong side of the fabric so that
 	
 ![Marking the end of the dart](/img/patterns/florent/instructions/step01.jpg)
 	
-There is several tricks to sewing darts, here is how I do it (I think it is called "balancing the dart"):
+There are several tricks to sewing darts, here is how I do it (I think it is called "balancing the dart"):
 prepare a bias cut rectangle of the same fabric you are going to stitch and place it underneath the point of your future dart.
-Stitch the dart starting from the bottom and keep stitching a few stitching after the top dart. 
+Stitch the dart starting from the bottom and keep stitching a few stitches after the top dart. 
 Leave a good length of thread to make a knot by hand.
 
 ![Balanced dart](/img/patterns/florent/instructions/step02.jpg)
@@ -82,7 +82,7 @@ You might have to notch the seam allowance to press it flat.
 Use a tailoring Ham or something rounded underneath to help you press the seam open whilst keeping the nice shape you just created.
 	
 #### Top Stitching
-Depending on the style you want to achieve, you can top stitch all your seams (by machine of by hand).
+Depending on the style you want to achieve, you can top stitch all your seams (by machine or by hand).
 However, the front brim seam will be a bit tricky to do with the machine (but not impossible). Anyway, I put this here and won't remind you about it after each step, but basically, the process would be: Stitch, Iron, Top stitch, Repeat on the next step.
 
 ### Step 3: Optional: Join both side parts.
@@ -161,7 +161,7 @@ Divide the tape in two with two pins
 
 Pin the tape in place: The two pins are used to distribute the tape equally on both sides. 
 Place one pin at the back, and the other at the front.
-Since the brim is held in place it can't be much stretched, so pin the tape in this area "normally"
+Since the brim is held in place it can't be stretched much, so pin the tape in this area "normally"
 For the remaining part you might need to ease the fabric along the tape.
 I recommend to hand stitch the tape in place, on both edges of the tape
     
